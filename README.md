@@ -1,4 +1,5 @@
 # Stone Paper Scissor Game in C++
+Standalone C++ Application
 Play The Stone Paper Scissors game against computer
 You can use 
 s/S for stone 
