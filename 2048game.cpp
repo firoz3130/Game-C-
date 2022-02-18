@@ -2,7 +2,7 @@
 #include<conio.h>
 using namespace std;
 
-void upmove(int a[4][4])
+void upmove(int a[4][4])               //UPWARD MOTION
 {
 	int i,j,li,ri;
 	for(j=0;j<4;j++)
@@ -39,7 +39,7 @@ void upmove(int a[4][4])
 	}
 }
 
-void downmove(int a[4][4])
+void downmove(int a[4][4])                 //DOWNWARD MOTION
 {
 	int i,j,li,ri;
 	for(j=0;j<4;j++)
@@ -76,7 +76,7 @@ void downmove(int a[4][4])
 	}
 }
 
-void leftmove(int a[4][4])
+void leftmove(int a[4][4])                     //LEFTWARD MOTION
 {
 	int i,j,li,ri;
 	for(i=0;i<4;i++)
@@ -113,7 +113,7 @@ void leftmove(int a[4][4])
 	}
 }
 
-void rightmove(int a[4][4])
+void rightmove(int a[4][4])            //RIGHTWARD MOTION
 {
 	int i,j,li,ri;
 	for(i=0;i<4;i++)
@@ -150,7 +150,7 @@ void rightmove(int a[4][4])
 	}
 }
 
-void addblock(int a[4][4])
+void addblock(int a[4][4])            //function which adds a new block
 {
 	int li,ri;
 	srand(time(0));
