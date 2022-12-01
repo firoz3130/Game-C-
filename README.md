@@ -1,12 +1,12 @@
 # Stone Paper Scissor Game in C++
-Standalone C++ Application
-Play The Stone Paper Scissors game against computer
-You can use 
-s/S for stone 
-p/P for Paper
-z/Z for Scissors
-Computer anonymously enter another key simultaneously..
-It will be compared and will declare the winner..
+Standalone C++ Application<BR>
+Play The Stone Paper Scissors game against computer<BR>
+You can use <BR>
+s/S for stone <BR>
+p/P for Paper<BR>
+z/Z for Scissors<BR>
+Computer anonymously enter another key simultaneously..<BR>
+It will be compared and will declare the winner..<BR>
 # 2048 Game in C++
 Standalone c++ Application
 Play the Iconic 2048 game in your Terminal itself<BR>
