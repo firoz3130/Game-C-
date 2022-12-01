@@ -9,8 +9,8 @@ Computer anonymously enter another key simultaneously..
 It will be compared and will declare the winner..
 # 2048 Game in C++
 Standalone c++ Application
-Play the Iconic 2048 game in your Terminal itself
-left arrow  (<-)-----MOVES THE numbers left
-right arrow  (->)-----MOVES THE numbers right
-down arrow  -----MOVES THE numbers down
-up arrow  (<-)-----MOVES THE numbers up
+Play the Iconic 2048 game in your Terminal itself<BR>
+left arrow  (<-)-----MOVES THE numbers left<br>
+right arrow  (->)-----MOVES THE numbers right<BR>
+down arrow  -----MOVES THE numbers down<BR>
+up arrow  (<-)-----MOVES THE numbers up<BR>
